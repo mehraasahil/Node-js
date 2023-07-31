@@ -1,0 +1,20 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "a node js tutuorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "author": "Sahil Mehra",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
